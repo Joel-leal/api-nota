@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(235, 173, 75, 0.609);
+  margin: 0 auto;
+}
+.head-top {
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(59, 59, 97, 0.637);
+  margin: 0 auto;
+}
+
+.form {
+  flex-grow: 1;
+  padding: 15px;
+}
+input {
+  border: none;
+  border-radius: 5px;
+}
